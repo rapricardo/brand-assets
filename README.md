@@ -1,0 +1,1 @@
+Apenas um repositório para os assets de projetos variados.
